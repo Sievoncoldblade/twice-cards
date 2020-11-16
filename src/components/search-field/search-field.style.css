@@ -1,0 +1,10 @@
+.searchField {
+    margin: 30px auto;
+    padding: 10px 30px;
+    font-size: 1rem;
+    color: teal;
+}
+
+.searchField:focus{
+    outline: none;
+}
